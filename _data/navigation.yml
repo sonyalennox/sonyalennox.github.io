@@ -1,0 +1,15 @@
+- title: Home
+  label: Home
+  link: /
+
+- title: Blog
+  label: Blog
+  link: /recipes
+
+- title: About 
+  label: About
+  link: /about
+
+- title: Contact
+  label: Contact
+  link: /contact
